@@ -48,15 +48,22 @@ Our project repository is structured as follows:
 - `/prototypes`: Contains interactive prototypes illustrating the website's design and functionality.
 - `/documentation`: Houses project documentation, including problem statements, persona profiles, and solution proposals.
 
+## 🖥️ **Prototype:**
+
+
+
+<img src="https://drive.google.com/uc?id=1DWlr5czGLeoGOQOJpJwADrh9v5hUmxGk" width="400"> 
+<img src="https://drive.google.com/uc?id=1TXF8PpRqC1hN7R0dzov3HJIEUdyUBr_g" width="400">
+<img src="https://drive.google.com/uc?id=1sooKhQ_E01N4YI47ilwKXsyj_eBSKfwu" width="400">
+
+
 ##  :clapper: Presentation
 
 This project is presenting By the [Canva](https://www.canva.com/design/DAGESA4am8Q/-XKsFdKzy15J5cZp1O3JAg/edit)
 
 
 
-## Contributors
-
-👥 **Contributors:**
+## 👥 **Contributors:**
 
 - Sara al mutairi
 - Abdulraouf al hawsawi
