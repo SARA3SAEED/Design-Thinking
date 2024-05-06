@@ -4,8 +4,11 @@ Welcome to my JavaScript bootcamp journey with Tuwaiq Academy! In the first week
 
 ## 🎨 **Design Thinking:**
 
+During the initial week, we focused on understanding the principles of design thinking.
+This involved learning how to empathize with users, define problem statements, ideate creative solutions, prototype designs, and iterate based on feedback.
 
-During the initial week, we focused on understanding the principles of design thinking. This involved learning how to empathize with users, define problem statements, ideate creative solutions, prototype designs, and iterate based on feedback.
+<img src="https://drive.google.com/uc?id=1Myvxnf5EetYacFL3BcdmzGMxmbwJ5FVq" width="700">
+
 
 ## 🤝 **Soft Skills Development:**
 
